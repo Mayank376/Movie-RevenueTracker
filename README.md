@@ -124,7 +124,7 @@ Contributions are welcome! Please feel free to submit pull requests.
 
 ## 📞 Contact
 
-- GitHub: [@Mayanksinghal712](https://github.com/Mayanksinghal712)
+- GitHub: [@Mayank376](https://github.com/Mayank376)
 
 ---
 
@@ -135,3 +135,4 @@ Contributions are welcome! Please feel free to submit pull requests.
 **Star ⭐ this repository if you find it helpful!**
 
 </div>
+
