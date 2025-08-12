@@ -34,7 +34,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mayanksinghal712/Movie-Revenue-Tracker.git
+   git clone https://github.com/Mayank376/Movie-Revenue-Tracker.git
    cd MovieRevenueTracker
    ```
 
@@ -135,4 +135,5 @@ Contributions are welcome! Please feel free to submit pull requests.
 **Star ⭐ this repository if you find it helpful!**
 
 </div>
+
 
